@@ -51,6 +51,8 @@ var opts = {
     height: 720,
 
     delay: 0,
+    
+    // device: "/dev/video1", 
 
     quality: 100,
 
